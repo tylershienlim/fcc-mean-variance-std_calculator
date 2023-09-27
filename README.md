@@ -4,3 +4,4 @@ This is the boilerplate for the Mean-Variance-Standard Deviation Calculator proj
 
 
 Completed solution by @tylershienlim
+![Alt text](image.png)
